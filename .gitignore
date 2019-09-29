@@ -22,7 +22,7 @@ dist
 
 # zip file
 
-*.zip
+# *.zip
 
 # code lint
 # .eslintrc
